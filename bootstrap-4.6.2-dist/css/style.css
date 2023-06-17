@@ -1,0 +1,39 @@
+.img {
+    border-radius: 2em;
+
+}
+.img-row{
+    width: 80px;
+    padding: 0 10px;
+    width: auto;
+}
+
+.col-orange {
+    color: #ff7d1a;
+}
+
+.btn-orange{
+    background-color: #ff7d1a;
+}
+
+#p-caps{
+    font-size: 1rem;
+}
+
+h3{
+    font-weight: bold;
+}
+
+#percent{
+    padding: 0.2rem;
+    background-color: #ff7d1a69;
+    font-size: 16px;
+}
+
+#old{
+    font-weight: lighter;
+    text-decoration: line-through;
+    font-weight: bold;
+    color: rgba(red, green, blue, alpha);
+
+}
